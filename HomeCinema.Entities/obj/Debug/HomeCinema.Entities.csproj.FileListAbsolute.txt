@@ -1,0 +1,20 @@
+C:\Users\aqsMedia\Desktop\Ground-Zero\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\Users\aqsMedia\Desktop\Ground-Zero\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\aqsMedia\Desktop\Ground-Zero\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
+C:\Users\aqsMedia\Desktop\Ground-Zero\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\Users\aqsMedia\Desktop\Ground-Zero\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+C:\Users\aqsMedia\Desktop\Ground-Zero_actual\HomeMovies\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\Users\aqsMedia\Desktop\Ground-Zero_actual\HomeMovies\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\aqsMedia\Desktop\Ground-Zero_actual\HomeMovies\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\Users\aqsMedia\Desktop\Ground-Zero_actual\HomeMovies\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+C:\Users\aqsMedia\Desktop\eXtranious Resources\Ground-Zero_actual\HomeMovies\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\Users\aqsMedia\Desktop\eXtranious Resources\Ground-Zero_actual\HomeMovies\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\aqsMedia\Desktop\eXtranious Resources\Ground-Zero_actual\HomeMovies\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
+C:\Users\aqsMedia\Desktop\eXtranious Resources\Ground-Zero_actual\HomeMovies\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\Users\aqsMedia\Desktop\eXtranious Resources\Ground-Zero_actual\HomeMovies\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+C:\Users\aqsMedia\Desktop\AQuincyPlugin\HomeMovies\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\Users\aqsMedia\Desktop\AQuincyPlugin\HomeMovies\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\aqsMedia\Desktop\AQuincyPlugin\HomeMovies\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csproj.CoreCompileInputs.cache
+C:\Users\aqsMedia\Desktop\AQuincyPlugin\HomeMovies\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\Users\aqsMedia\Desktop\AQuincyPlugin\HomeMovies\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+C:\Users\aqsMedia\Desktop\AQuincyPlugin\HomeMovies\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
